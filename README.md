@@ -6,8 +6,8 @@ Hello guys, this is Joy
 
 I can do
 
--python
--woodworking
--cooking
--playing
+- python
+- woodworking
+- cooking
+- playing
  
